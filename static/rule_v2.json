@@ -18,7 +18,7 @@
     {
       "name": "IPv4",
       "url": "https://gh-proxy.net/https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
-      "data_type": "txt",
+      "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
       "sort": 1
