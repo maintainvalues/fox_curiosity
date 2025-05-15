@@ -8,33 +8,17 @@
   "subEnabled": true,
   "tvSource": [
     {
-      "name": "classic",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+      "name": "IPv6",
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv6/result.m3u",
       "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
       "sort": 0
     },
     {
-      "name": "tvBox",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/Supprise0901/TVBox_live/main/live.txt",
+      "name": "IPv4",
+      "url": "https://raw.githubusercontent.com/Guovin/iptv-api/gd/output/ipv4/result.m3u",
       "data_type": "txt",
-      "author": "testmain",
-      "enable": 1,
-      "sort": 1
-    },
-    {
-      "name": "IPTV",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/joevess/IPTV/main/iptv.m3u8",
-      "data_type": "m3u",
-      "author": "testmain",
-      "enable": 1,
-      "sort": 1
-    },
-    {
-      "name": "IPV6",
-      "url": "https://ghfast.top/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u",
-      "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
       "sort": 1
