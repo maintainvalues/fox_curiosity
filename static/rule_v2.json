@@ -14,6 +14,20 @@
       "author": "testmain",
       "enable": 1,
       "sort": 0
+    },{
+      "name": "hujingguang",
+      "url": "https://raw.githubusercontent.com/hujingguang/ChinaIPTV/main/cnTV_AutoUpdate.m3u8",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 0
+    },{
+      "name": "iptv.hacks",
+      "url": "https://live.hacks.tools/tv/iptv4.m3u",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 0
     }
   ],
   "radioSource": [],
