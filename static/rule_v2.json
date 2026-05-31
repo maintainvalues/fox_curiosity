@@ -28,6 +28,20 @@
       "author": "testmain",
       "enable": 1,
       "sort": 0
+    },{
+      "name": "CCSH-LIVE",
+      "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live_platforms.m3u",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 0
+    },{
+      "name": "CCSH-TV",
+      "url": "https://raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.m3u",
+      "data_type": "m3u",
+      "author": "testmain",
+      "enable": 1,
+      "sort": 0
     }
   ],
   "radioSource": [],
