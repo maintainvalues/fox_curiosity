@@ -9,7 +9,7 @@
   "tvSource": [
     {
       "name": "vbskycn",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u",
+      "url": "https://live.zbds.top/tv/iptv4.m3u",
       "data_type": "m3u",
       "author": "testmain",
       "enable": 1,
